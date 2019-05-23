@@ -39,14 +39,3 @@ submit.on("click", function() {
 
    BuildTable(filteredData);
 });
-
-
-// // YOUR CODE HERE!
-
-// datetime: "1/1/2010",
-//     city: "benton",
-//     state: "ar",
-//     country: "us",
-//     shape: "circle",
-//     durationMinutes: "5 mins.",
-//     comments: "4 
